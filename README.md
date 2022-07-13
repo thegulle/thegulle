@@ -3,15 +3,15 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegulle&layout=compact&theme=radical" alt="thegulle" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thegulle&theme=2077" alt="thegulle" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thegulle&show_icons=true&theme=radical" alt="thegulle" />
+<img src="https://github-readme-stats.vercel.app/api?username=thegulle&show_icons=true&theme=2077" alt="thegulle" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thegulle" alt="thegulle" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thegulle&theme=2077" alt="thegulle" />
 </p>
 
 <hr/>
