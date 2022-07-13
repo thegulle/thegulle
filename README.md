@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-### :hammer_and_wrench: Languages and Tools :  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thegulle" alt="thegulle" />
 </p>
