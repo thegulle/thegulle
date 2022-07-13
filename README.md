@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thegulle&show_icons=true&theme=2077" alt="thegulle" />
-</p>
-
-<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thegulle&theme=2077" alt="thegulle" />
 </p>
 
