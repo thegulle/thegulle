@@ -3,11 +3,11 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraygulle&layout=compact&theme=radical" alt="eraygulle" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegulle&layout=compact&theme=radical" alt="thegulle" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eraygulle&show_icons=true&theme=radical" alt="eraygulle" />
+<img src="https://github-readme-stats.vercel.app/api?username=thegulle&show_icons=true&theme=radical" alt="thegulle" />
 </p>
 
 <hr />
