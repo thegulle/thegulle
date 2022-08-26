@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-## I am a Full Stack Web Developer
+## I am a Full Stack Developer
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thegulle&theme=2077" alt="thegulle" />
